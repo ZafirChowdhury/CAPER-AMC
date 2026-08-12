@@ -1,0 +1,6 @@
+metric,value
+Overall accuracy,0.8855944055944056
+Overall accuracy percent,88.55944055944056
+Overall Macro-F1,0.8800991644256694
+Total test samples,28600.0
+Trainable parameters,1060337.0
