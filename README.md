@@ -90,8 +90,6 @@ CAPER-AMC/
 │   ├── figure_04_normalized_confusion_matrix.png
 │   ├── figure_06_dynamic_routing_vs_snr.png
 │   └── ...
-└── docs/
-    └── UPLOAD_TO_GITHUB.md
 ```
 
 ## Run in Google Colab
